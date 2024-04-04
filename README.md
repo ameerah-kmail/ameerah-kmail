@@ -8,7 +8,7 @@
       <a href="mailto:ameerahhasan90@gmail.com.io"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
     </p>
 </div>
-<h3 align="center">👨‍💻Languages and Tools👨‍💻</h3>
+<h3 align="center">Languages and Tools</h3>
 <p align="center"> 
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /> 
