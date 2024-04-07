@@ -8,7 +8,11 @@
       <a href="mailto:ameerahhasan90@gmail.com.io"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
     </p>
 </div>
-                                                       
+<div align='center'>
+    <p align='center' >
+    As a full-stack developer who adapts to both backend and frontend development. I am eager to work for a firm that will allow me to progress in my career. I worked in full-stack development for one year, which improved       my skills in programming design, development, and implementation, and I have since continued to learn and work in it or any field related to my study.
+    </p>
+</div>                                                      
 <h3 align="center">👨🏻‍💻Languages and Tools👨🏻‍💻</h3>   
 
 ![Java](https://img.shields.io/badge/-Java-000?&logo=java)
