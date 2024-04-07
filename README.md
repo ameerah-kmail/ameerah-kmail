@@ -11,16 +11,16 @@
                                                        
 <h3 align="center">👨🏻‍💻Languages and Tools👨🏻‍💻</h3>   
 
-![Java](https://img.shields.io/badge/-Java-000?&logo=java)&nbsp;&nbsp;
-![cplusplus](https://img.shields.io/badge/-C++-000?&logo=cplusplus)&nbsp;&nbsp;
-![dotnet](https://img.shields.io/badge/-.Net-000?&logo=dotnet)&nbsp;&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=Oracle)&nbsp;&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)&nbsp;&nbsp;
-![angular](https://img.shields.io/badge/-Angular-000?&logo=angular)&nbsp;&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)&nbsp;&nbsp;
-![html5](https://img.shields.io/badge/-HTML-000?&logo=html5)&nbsp;&nbsp;
-![css3](https://img.shields.io/badge/-Css-000?&logo=css3)&nbsp;&nbsp;
-![postman](https://img.shields.io/badge/-Postman-000?&logo=postman)&nbsp;&nbsp;
-![git](https://img.shields.io/badge/-Github-000?&logo=git)&nbsp;&nbsp;
-![arduino](https://img.shields.io/badge/-arduino-000?&logo=arduino)&nbsp;&nbsp;
+![Java](https://img.shields.io/badge/-Java-000?&logo=java)&nbsp;
+![cplusplus](https://img.shields.io/badge/-C++-000?&logo=cplusplus)&nbsp;
+![dotnet](https://img.shields.io/badge/-.Net-000?&logo=dotnet)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=Oracle)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)&nbsp;
+![angular](https://img.shields.io/badge/-Angular-000?&logo=angular)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)&nbsp;
+![html5](https://img.shields.io/badge/-HTML-000?&logo=html5)&nbsp;
+![css3](https://img.shields.io/badge/-Css-000?&logo=css3)&nbsp;
+![postman](https://img.shields.io/badge/-Postman-000?&logo=postman)&nbsp;
+![git](https://img.shields.io/badge/-Github-000?&logo=git)&nbsp;
+![arduino](https://img.shields.io/badge/-arduino-000?&logo=arduino)&nbsp;
 ![csharp](https://img.shields.io/badge/-Csharp-000?&logo=csharp) 
